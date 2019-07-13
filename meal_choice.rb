@@ -4,3 +4,5 @@ def meal_choice(meal = "fruit")
   puts "lets eat #{meal}"
   binding.pry
 end
+
+meal_choice
