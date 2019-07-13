@@ -2,5 +2,5 @@
 # passed into it and defaults to meat.
 def meal_choice
   puts "lets eat #{meal}"
-  binding.pry  
+  binding.pry
 end
